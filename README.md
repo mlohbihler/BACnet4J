@@ -1,5 +1,7 @@
 BACnet4J
 ========
+NOTE: The official version of BACnet4J is at https://github.com/infiniteautomation/BACnet4J. 
+
 BACnet4J is a pure Java implementation of the BACnet specification. Originally developed for supervisory use, it now includes support for many objects and so may be suitable for embedded use as well. Protocols supported include IPv4, IPv6, and MS/TP.
 
 A discussion forum for this package can be found at http://infiniteautomation.com/forum/category/12/bacnet4j-general-discussion.
